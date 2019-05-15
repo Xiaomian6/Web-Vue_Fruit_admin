@@ -99,11 +99,11 @@ import waves from '@/directive/waves' // Waves directive 水波纹特效
 import Pagination from '@/components/Pagination' // Secondary package based on el-pagination 分页
 
 const calendarTypeOptions = [
-  { key: '1', display_name: '普通' },
-  { key: '2', display_name: '采购' },
-  { key: '3', display_name: '收购' },
-  { key: '4', display_name: '运输' },
-  { key: '4', display_name: '店铺' }
+  { key: '1', display_name: '采购' },
+  { key: '2', display_name: '收购' },
+  { key: '3', display_name: '运输' },
+  { key: '4', display_name: '普通' },
+  { key: '5', display_name: '店铺' }
 ]
 
 const isTypeOptions = [
