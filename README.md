@@ -1,9 +1,8 @@
 # Web-Vue_Fruit_admin
-[团队开发项目]果蔬电商平台管理后台-前端部分，基于vue-admin-template基础模板开发，开发ing...
+[团队开发项目]果蔬电商平台管理后台-前端部分，基于vue-admin-template基础模板二次开发，开发ing...
 
 # 演示地址
-  http://sg.zhouzhihui.cn
-
+  http://sg.zhouzhihui.cn  （后端在搬家）
 ## Build Setup
 
 ```bash
