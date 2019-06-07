@@ -11,14 +11,14 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        target: 'http://www.zhouzhihui.cn/',//后端接口地址
+        target: 'http://47.106.94.110/',//后端接口地址
         changeOrigin: true,//是否允许跨越
       }
     },
 
     // Various Dev Server settings
     host: 'localhost', // can be overwritten by process.env.HOST
-    port: 8000, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
+    port: 8866, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
     autoOpenBrowser: true,
     errorOverlay: true,
     notifyOnErrors: false,
