@@ -1,13 +1,16 @@
 # Web-Vue_Fruit_admin
-[团队开发项目]果蔬电商平台管理后台-前端部分，基于vue-admin-template基础模板二次开发
+[WEB项目]果蔬电商平台管理后台-前端部分，基于vue-admin-template基础模板二次开发
 
 # 演示地址
-  http://fruit.xiaomian.love  （后端在搬家）
+  http://fruit.xiaomian.love  （后端部署已下线）
+  
+## 成员
+- xiaomian6 (前端)
+- Hanyu-Liang (后端)
+
 ## Build Setup
 
 ```bash
-# Clone project
-git clone https://github.com/PanJiaChen/vue-admin-template.git
 
 # Install dependencies
 npm install
